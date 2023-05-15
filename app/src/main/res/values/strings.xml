@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Swadisht</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Prev</string>
+    <string name="onboarding_image">Onboarding Image</string>
 </resources>
